@@ -1,4 +1,4 @@
-# 𝒜𝓊𝓇𝒶 - Batch Tool
+# 𝒜𝓊𝓇𝒶 - MultiTool
 
 𝒜𝓊𝓇𝒶 is a customizable batch tool designed to provide a set of utilities and features for Windows users. With a sleek design and easy-to-use interface, 𝒜𝓊𝓇𝒶 offers several functionalities to enhance your command-line experience.
 
