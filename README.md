@@ -1,6 +1,6 @@
-# 𝒜𝓊𝓇𝒶 - MultiTool
+# 𝒜𝓊𝓇𝒶 - MutiTool
 
-𝒜𝓊𝓇𝒶 is a customizable batch tool designed to provide a set of utilities and features for Windows users. With a sleek design and easy-to-use interface, 𝒜𝓊𝓇𝒶 offers several functionalities to enhance your command-line experience.
+𝒜𝓊𝓇𝒶 is a customizable MutiTool designed to provide a set of utilities and features for Windows users. With a sleek design and easy-to-use interface, 𝒜𝓊𝓇𝒶 offers several functionalities to enhance your command-line experience.
 
 ## Features
 
@@ -13,10 +13,11 @@
 
 ## Usage
 
-1. Clone or download the repository.
-2. Run the batch file to launch 𝒜𝓊𝓇𝒶.
-3. Navigate through the menu options using numerical inputs.
-4. Enjoy the convenience of 𝒜𝓊𝓇𝒶's utilities and features.
+1. Download "Aura.zip" from the latest release.
+2. Once "Aura.zip" has downloaded, Right-Click on it and select "Extract All"
+3. Now, run Aura.bat to launch 𝒜𝓊𝓇𝒶.
+4. Navigate through the menu options using numerical inputs.
+5. Enjoy the convenience of 𝒜𝓊𝓇𝒶's utilities and features.
 
 ## Instructions
 
@@ -36,8 +37,7 @@
 
 ### Settings
 1. Access the Settings menu from the main menu.
-2. Customize the theme by selecting background and text colors.
-3. Explore additional help and tips to maximize your 𝒜𝓊𝓇𝒶 experience.
+2. Customize the theme by selecting background and text colors, or get helpful tips and information.
 
 ## Customize Your Experience
 
