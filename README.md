@@ -13,11 +13,8 @@
 
 ## Usage
 
-1. Download "Aura.zip" from the latest release.
-2. Once "Aura.zip" has downloaded, Right-Click on it and select "Extract All"
-3. Now, run Aura.bat to launch 𝒜𝓊𝓇𝒶.
-4. Navigate through the menu options using numerical inputs.
-5. Enjoy the convenience of 𝒜𝓊𝓇𝒶's utilities and features.
+- Go to https://github.com/PxslGames/Aura/releases/tag/Installer to download the Installer
+- Instructions on how to install are there
 
 ## Instructions
 
