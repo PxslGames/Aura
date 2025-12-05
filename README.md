@@ -1,3 +1,6 @@
+# UPDATED THIS ON 5TH OF DECEMBER 2025 TO ADD THIS NOTE!
+**this is literally like my first github repo I think, it's very skidded and bad.**
+
 # 𝒜𝓊𝓇𝒶 - MutiTool
 
 𝒜𝓊𝓇𝒶 is a customizable MutiTool designed to provide a set of utilities and features for Windows users. With a sleek design and easy-to-use interface, 𝒜𝓊𝓇𝒶 offers several functionalities to enhance your command-line experience.
